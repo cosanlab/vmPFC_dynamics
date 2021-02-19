@@ -53,7 +53,7 @@ Many nifti images related to this project can be found in our [Neurovault collec
 # Data Availability
 We have tried to make most of the data publicly available.
 
-- Neuroimaging Data will be shared on OpenNeuro
+- Study 2 Neuroimaging Data - Available on [OpenNeuro](https://github.com/cosanlab/vmPFC_dynamics)
 - Study 3 Face Expression Data - Available on [OSF](https://osf.io/f9gyd/). We are only sharing extracted Action Unit Values. We do not have permission to share raw video data.
 - Study 4 Emotion Ratings - Available on [OSF](https://osf.io/f9gyd/). Rating data was collected on Amazon Mechanical Turk using a custom Flask [web application](https://github.com/cosanlab/moth_app) built by Nathan Greenstein.
 
